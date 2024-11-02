@@ -1,5 +1,4 @@
 
-
 from sys import executable, stderr
 Akb3fjNOrw = 14108098
 class N4zFSaNNRb:
